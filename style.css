@@ -1,0 +1,64 @@
+  ul {
+    gap: 20px;
+    display:flex;
+    background-color: rgb(76, 153, 216);
+}
+li a {
+   color: #eceff1;
+}
+  header ul li {
+    list-style-type: none;
+    text-decoration: none;   
+}
+
+ul li a {
+   text-decoration:none ;
+}
+  #logo {    border: 1px solid #ddd;
+    border-radius:20%;
+    padding: 5px;
+    width: 30px;
+  }
+  table , th , td  {
+   border : 1px solid;
+   border-collapse: collapse;
+   size: 150px;
+  }
+  th {
+background-color: blue; 
+color: aliceblue; }
+table {
+   width: 90px;
+
+}
+th {
+   background-color: cornflowerblue;
+}
+
+footer {
+   position:fixed;
+   text-align: center;
+   justify-content: center;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+}
+
+
+
+
+img {
+   width: 140px;
+   border: 2px solid rgb(235, 141, 188);
+}
+form {
+   padding:10px;
+   font-family: 'Times New Roman', Times, serif;
+}
+#my {
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   color: darkseagreen;
+}
+label {
+   color: rgb(16, 102, 136);
+}
