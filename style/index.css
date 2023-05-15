@@ -36,7 +36,7 @@ th {
 }
 
 footer {
-   position:fixed;
+position: fixed;
    text-align: center;
    justify-content: center;
    left: 0;
@@ -47,18 +47,3 @@ footer {
 
 
 
-img {
-   width: 140px;
-   border: 2px solid rgb(235, 141, 188);
-}
-form {
-   padding:10px;
-   font-family: 'Times New Roman', Times, serif;
-}
-#my {
-   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-   color: darkseagreen;
-}
-label {
-   color: rgb(16, 102, 136);
-}

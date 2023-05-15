@@ -1,0 +1,52 @@
+
+
+#logo {    border: 1px solid #ddd;
+    border-radius:20%;
+    padding: 5px;
+    width: 30px; }
+
+ ul {
+    gap: 20px;
+    display:flex;
+    background-color: rgb(76, 153, 216);
+}
+li a {
+   color: #eceff1;
+}
+  header ul li {
+    list-style-type: none;
+    text-decoration: none;   
+}
+
+ul li a {
+   text-decoration:none ; }
+
+
+
+   img {
+    width: 140px;
+    border: 2px solid rgb(235, 141, 188);
+   }
+ form {
+    padding:10px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ #my {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: darkseagreen;
+ }
+ label {
+    color: rgb(16, 102, 136);
+ }
+
+
+
+
+footer {
+
+    text-align: center;
+    justify-content: center;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+ }
